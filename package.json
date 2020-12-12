@@ -1,0 +1,17 @@
+{
+  "name": "api_pretva_work",
+  "version": "1.0.0",
+  "description": "Api for login and register",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "check-node-version": "^4.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.5"
+  }
+}
